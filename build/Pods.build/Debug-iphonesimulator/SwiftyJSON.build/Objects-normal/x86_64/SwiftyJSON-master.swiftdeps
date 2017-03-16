@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "e5bd80e0d98cf0e0eaf8effe918d0ff7"
+build_time: [542932268, 951303000]
+inputs:
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [542755483, 0]

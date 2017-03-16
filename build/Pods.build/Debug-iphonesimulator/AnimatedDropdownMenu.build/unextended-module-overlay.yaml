@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/HL/Documents/AppleBite/AxxessChallenge/build/Debug-iphonesimulator/AnimatedDropdownMenu/AnimatedDropdownMenu.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/HL/Documents/AppleBite/AxxessChallenge/build/Pods.build/Debug-iphonesimulator/AnimatedDropdownMenu.build/unextended-module.modulemap',
+    }]
+  }]
+}

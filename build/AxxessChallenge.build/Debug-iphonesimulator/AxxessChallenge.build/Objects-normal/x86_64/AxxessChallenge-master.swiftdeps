@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "4c8b0f8ef45e4c0a0cb77dd423517c44"
+build_time: [542948235, 782396000]
+inputs:
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/AxxessChallenge/TextTableViewCell.swift": [542948175, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/AxxessChallenge/RequestData.swift": [542948220, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/AxxessChallenge/AppDelegate.swift": [542848435, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/AxxessChallenge/ImageTableViewCell.swift": [542948149, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/AxxessChallenge/TableViewController.swift": [542948082, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/AxxessChallenge/TextViewController.swift": [542948080, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/AxxessChallenge/ImageViewController.swift": [542948079, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/AxxessChallenge/Content.swift": [542948227, 0]

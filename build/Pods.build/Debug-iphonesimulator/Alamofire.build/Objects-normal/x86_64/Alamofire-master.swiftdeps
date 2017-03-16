@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "f2acb5414e318f2add600f4d6859d639"
+build_time: [542932258, 374416000]
+inputs:
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/AFError.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/Alamofire.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/MultipartFormData.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/Notifications.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/ParameterEncoding.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/Request.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/Response.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/ResponseSerialization.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/Result.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/ServerTrustPolicy.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/SessionDelegate.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/SessionManager.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/TaskDelegate.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/Timeline.swift": [542756277, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge copy/Pods/Alamofire/Source/Validation.swift": [542756277, 0]

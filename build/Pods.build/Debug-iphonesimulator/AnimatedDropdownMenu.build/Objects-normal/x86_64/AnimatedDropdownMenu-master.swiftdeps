@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "19dfb76b28373d6c7072941e08cce3c8"
+build_time: [542842680, 128453000]
+inputs:
+  "/Users/HL/Documents/AppleBite/AxxessChallenge/Pods/AnimatedDropdownMenu/Source/AnimatedDropdownMenu.swift": [542842669, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge/Pods/AnimatedDropdownMenu/Source/DropdownMenuCellSeparator.swift": [542842669, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge/Pods/AnimatedDropdownMenu/Source/DropdownMenuConfig.swift": [542842669, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge/Pods/AnimatedDropdownMenu/Source/DropdownMenuTableView.swift": [542842669, 0]
+  "/Users/HL/Documents/AppleBite/AxxessChallenge/Pods/AnimatedDropdownMenu/Source/DropdownMenuTableViewCell.swift": [542842669, 0]
